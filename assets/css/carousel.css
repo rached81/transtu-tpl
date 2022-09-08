@@ -15,6 +15,10 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+  padding-top: 30px;
+  overflow: auto;
+  height: auto;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -25,6 +29,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
+  width:100vw;
   /* background-size: auto cover; */
   height: 32rem;
   background-color: #777;

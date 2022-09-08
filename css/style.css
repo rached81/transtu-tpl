@@ -5,6 +5,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9179,3 +9180,7 @@ h3 {
 }
 
 /*# sourceMappingURL=style.css.map */
+.li-bg-adress{
+  background-color: #f2f5f5!important;
+  border-bottom: 0px;
+}

@@ -1,113 +1,4 @@
-<!-- <div class="containrer">
-    <div id="footer">
-        <div class="row">
-            <div class="col-6">
-                <div class="row">
-                    <div class="col-6">
 
-                        <div id="logo_footer"><a href="/fr/"><img src="https://www.transtu.tn/images/front/transtu_logo_footer-.png" alt=""></a></div>
-                    </div>
-                    <div class="col-6">
-                        <div id="coordonner">
-                            <h3>coordonnées</h3>
-                            <p>Adresse : 33 Avenue du Japon Montplaisir 1073 Tunis</p>
-                            <p>Téléphone : 71 904 894 / 71 904 889 / 71 904 932</p>
-                            <p>Fax : 71 904 883</p>
-                            <p>Email : <a href="mailto:brc@transtu.tn">brc@transtu.tn</a></p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="col-6">
-                <div id="menu_footer">
-                    <h3>Menu</h3>
-                    <div class="row">
-                        <div class="col-4">
-                        <ul>
-                        <li><a href="/fr/">Accueil</a></li>
-                        <li><a href="/fr/entreprise/0001-notre-mission.html">Présentation</a></li>
-                        <li><a href="/fr/historique/transport-collectif.html">Historique</a></li>
-                        <li><a href="/fr/articles/les-dernieres-nouvelles">Nouveautés</a></li>
-                    </ul>
-                        </div>
-                        <div class="col-4">
-                        <ul>
-                        <li><a href="/fr/">Accueil</a></li>
-                        <li><a href="/fr/entreprise/0001-notre-mission.html">Présentation</a></li>
-                        <li><a href="/fr/historique/transport-collectif.html">Historique</a></li>
-                        <li><a href="/fr/articles/les-dernieres-nouvelles">Nouveautés</a></li>
-                    </ul>
-                        
-                        </div>
-                        <div class="col-4">
-                        <ul>
-                        <li><a href="/fr/0005-transport-a-la-carte.html">Transport à la Carte</a></li>
-                        <li><a href="/fr/espace-journalistes">Presse</a></li>
-                        <li><a href="/fr/0080-marche-horaire-hiver-2021-2022.html">Horaires</a></li>
-                        <li><a href="/fr/support">Réclamation</a></li>
-                    </ul>
-                        
-                        </div>
-
-                    </div>
-                
-                </div>
-            </div>
-        </div>
-    </div>
-<div class="clear20"></div> 
-</div> -->
-
-
-<!-- <div class="container">
-<footer class="pt-4 my-md-5 pt-md-5 border-top">
-        <div class="row">
-          <div class="col-12 col-md">
-          <div id="logo_footer"><a href="/fr/"><img src="https://www.transtu.tn/images/front/transtu_logo_footer-.png" alt=""></a></div>
-          <div id="coordonner">
-                            <h3>coordonnées</h3>
-                            <ul class="list-unstyled">
-                                <li>Adresse : 33 Avenue du Japon Montplaisir 1073 Tunis</li>
-                                <li>Téléphone : 71 904 894 / 71 904 889 / 71 904 932</li>
-                                <li>Fax : 71 904 883</li>
-                                <li>Email : <a href="mailto:brc@transtu.tn">brc@transtu.tn</a></li>
-                            </ul>
-                        </div>
-             <small class="d-block mb-3 text-muted">© 2017-2018</small> 
-          </div>
-          <div class="col-6 col-md">
-            <h5>Features</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Cool stuff</a></li>
-              <li><a class="text-muted" href="#">Random feature</a></li>
-              <li><a class="text-muted" href="#">Team feature</a></li>
-              <li><a class="text-muted" href="#">Stuff for developers</a></li>
-              <li><a class="text-muted" href="#">Another one</a></li>
-              <li><a class="text-muted" href="#">Last time</a></li>
-            </ul>
-          </div>
-          <div class="col-6 col-md">
-             <h5>&nbsp;</h5> 
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Resource</a></li>
-              <li><a class="text-muted" href="#">Resource name</a></li>
-              <li><a class="text-muted" href="#">Another resource</a></li>
-              <li><a class="text-muted" href="#">Final resource</a></li>
-            </ul>
-          </div>
-          <div class="col-6 col-md">
-            <h5>&nbsp;</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Team</a></li>
-              <li><a class="text-muted" href="#">Locations</a></li>
-              <li><a class="text-muted" href="#">Privacy</a></li>
-              <li><a class="text-muted" href="#">Terms</a></li>
-            </ul>
-          </div>
-        </div>
-      </footer>
-    </div> -->
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 
@@ -183,13 +74,13 @@
                                 <li>Email : <a href="mailto:brc@transtu.tn">brc@transtu.tn</a></li>
                     </ol>
                           <!-- Facebook -->
-                <i class="social-icon fab fa-facebook-f"></i>
-                <!-- Twitter -->
-                <i class="social-icon fab fa-twitter"></i>
-                <!-- Google -->
-                <i class="social-icon fab fa-google"></i>
-                <!-- Youtube -->
-                <i class="social-icon fab fa-youtube"></i>
+                            <i class="social-icon fab fa-facebook-f"></i>
+                            <!-- Twitter -->
+                            <i class="social-icon fab fa-twitter"></i>
+                            <!-- Google -->
+                            <i class="social-icon fab fa-google"></i>
+                            <!-- Youtube -->
+                            <i class="social-icon fab fa-youtube"></i>
 
                     </p>
                     <div class="social mt-2 mb-3"> <i class="fa fa-facebook-official fa-lg"></i> <i class="fa fa-instagram fa-lg"></i> <i class="fa fa-twitter fa-lg"></i> <i class="fa fa-linkedin-square fa-lg"></i> <i class="fa fa-facebook"></i> </div>
