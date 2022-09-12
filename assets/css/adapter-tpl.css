@@ -507,6 +507,15 @@ icons
 }
 
 ul.list-inline li {
-    display: inline-block;
+    display: inline-block!important;
     margin-right: 10px;
+}
+
+
+/* .blog .entry  */
+.entry-meta a {
+    color: #847872!important;
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1;
 }

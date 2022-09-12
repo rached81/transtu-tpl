@@ -4,7 +4,7 @@ body{
 }
 
 .event-card-margin {
-    margin-bottom: 1.875rem;
+    margin-bottom: 1.875rem!important;
 }
 
 .event-card {

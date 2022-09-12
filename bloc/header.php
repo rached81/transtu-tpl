@@ -1,22 +1,23 @@
 <header>
 	<!-- START:MENU-->
 	<!-- <nav class="navbar navbar-expand-lg  fixed-top navbar-light bg-light"  style="background-color: #e3f2fd!important;"> -->
-	<nav class="navbar navbar-expand-lg   fixed-top  navbar-expand-xs navbar-light bg-light">
+	<nav class="navbar navbar-expand-lg  py-0 fixed-top  navbar-expand-xs navbar-light bg-light">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 
-		<a class="navbar-brand" href="#">
+		<a class="navbar-brand mt-0" href="#">
 
-			<img src="http://info.transtu.tn/Content/images/transtu_logo.png" alt="" class="logo" />
+			<img src="http://info.transtu.tn/Content/images/transtu_logo.png" alt="" class="logo mt-0" />
 
 		</a>
 		<!-- <img src="http://info.transtu.tn/Content/images/transtu_logo.png"  height="35" class="d-inline-block align-top" alt=""> -->
 		<!-- <img src="http://info.transtu.tn/Content/images/transtu_logo.png" height="50" class="d-inline-block align-top"  style="position: absolute;
                 z-index: 100;top:0;left: 0;" /> -->
 
-		<div class="collapse navbar-collapse " id="navbarTogglerDemo03">
-			<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+		<div class="collapse navbar-collapse mt-0 " id="navbarTogglerDemo03">
+			<!-- <ul class="navbar-nav mr-auto mt-2 mt-lg-0"> -->
+			<ul class="navbar-nav mr-auto mt-0 mt-lg-0">
 				<li class="nav-item active-nav">
 					<a class="nav-link nav-link-topbar " href="index.php">Accueil <span class="sr-only">(current)</span></a>
 				</li>
@@ -27,7 +28,7 @@
 					<a class="nav-link  nav-link-topbar" href="contact.php">Contact</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link  nav-link-topbar" href="#">Dernières nouvelles</a>
+					<a class="nav-link  nav-link-topbar" href="all-news.php">Dernières nouvelles</a>
 				</li>
 
 				<!-- Navbar dropdown -->

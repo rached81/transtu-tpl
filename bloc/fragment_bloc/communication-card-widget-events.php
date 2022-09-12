@@ -1,7 +1,7 @@
 <div class="container ">
 <div class="row">
     <div class="col-lg-6">  
-        <div class="event-card card-margin">
+        <div class="event-card event-card-margin">
             <div class="event-card-header">
                 <h5 class="event-card-title pt-2 pl-2">Compagne de Sensiblisation</h5>
             </div>
@@ -63,7 +63,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
        
         <div class="col-12 col-md-6">
-            <div class="event-card l-bg-blue-dark">
+            <div class="event-card l-bg-blue-dark event-card-margin">
                 <div class="card-statistic-3 p-4">
                     <div class="card-icon card-icon-large"><i class="fas fa-users"></i></div>
                     <div class="mb-4">
@@ -106,7 +106,7 @@
             </div>
         </div>
         <div class="col-12 col-md-6">
-            <div class="event-card l-bg-orange-dark">
+            <div class="event-card l-bg-orange-dark event-card-margin">
                 <div class="card-statistic-3 p-4">
                     <!-- <div class="card-icon card-icon-large"><i class="fas fa-ticket-alt"></i></div> -->
                     <div class="card-icon card-icon-large"><i class="fas fa-paper-plane"></i></div>

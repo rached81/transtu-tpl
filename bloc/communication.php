@@ -1,9 +1,9 @@
 <div class="row">
 
   <div class="col-lg-4">
-    <div class="card">
-    <div class="card-header">
-    <h5 class="card-title pt-2 pl-2">Les dernières nouvelles</h5>
+    <div class="card mb-0">
+    <div class="card-header " style=" background-color: #1F487E;">
+    <h5 class="card-title py-1 pl-2" style="margin-bottom: 0px;">Les dernières nouvelles</h5>
     </div>
       <div class="card-body">
         <!-- <h5 class="card-title" style="text-transform: uppercase;padding-left: 20px;font-size:17px; text-align:left;font-weight:bold;color:#999"></h5> -->
@@ -14,7 +14,7 @@
 
             </div>
             <small class="text-muted" style="text-align: left;float:left">23 Novembre 2022</small>
-            <p class="mb-1 " style="color:#666;text-align: left;float:left;margin-left:0px">Donec id elit non mi porta gravida at eget metus. </p>
+            <p class="mb-1 " style="color:#666;text-align: left;float:left;margin-left:0px">Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus</p>
             <small style="text-align: left;float:left">En savoir plus...</small>
           </a>
           <a href="#" class="list-group-item list-group-item-action flex-column align-items-start list-group-item-adapter" style="padding-left: 0px;float:left">

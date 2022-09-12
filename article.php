@@ -15,10 +15,9 @@ include "bloc/head-import.php";
             include "bloc/fil_arian.php";
         ?>
             <div class=" container">
-                
                 <!-- START : BLOC INFO VOUYAGEURS -->
         <?php
-            include "bloc/detail-news.php";
+            include "bloc/detail-article.php";
         ?>
             </div>
         </div>
